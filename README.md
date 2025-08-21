@@ -1,1 +1,0 @@
-# Urdu-Optical-Character-Recognition
