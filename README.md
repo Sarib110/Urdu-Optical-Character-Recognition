@@ -72,3 +72,5 @@ This project implements multiple deep learning architectures for OCR:
 ```bash
 git clone https://github.com/yourusername/Urdu-OCR.git
 cd Urdu-OCR
+```
+### **Note**: To get the downloaded dataset, email at gardazisarib@gmail.com
